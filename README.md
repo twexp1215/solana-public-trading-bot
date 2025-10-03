@@ -1,6 +1,6 @@
-# Solana Trading Bot (Beta)
+# Solana Public Trading Bot
 
-The Solana Trading Bot is a software tool designed to automate the buying and selling of tokens on the Solana blockchain.
+The Solana Public Trading Bot is a software tool designed to automate the buying and selling of tokens on the Solana blockchain.
 It is configured to execute trades based on predefined parameters and strategies set by the user.
 
 The bot can monitor market conditions in real-time, such as pool burn, mint renounced and other factors, and it will execute trades when these conditions are fulfilled.
@@ -144,15 +144,6 @@ To collect more information on an issue, please change `LOG_LEVEL` to `debug`.
   - FIX: Go to dex and swap some SOL to USDC/WSOL. For example when you swap sol to wsol you should see it in wallet as shown below:
 
 ![wsol](readme/wsol.png)
-
-## Contact
-
-[![](https://img.shields.io/discord/1201826085655023616?color=5865F2&logo=Discord&style=flat-square)](https://discord.gg/xYUETCA2aP)
-
-- If you want to leave a tip, you can send it to the following address:
-  `7gm6BPQrSBaTAYaJheuRevBNXcmKsgbkfBCVSjBnt9aP`
-
-- If you need custom features or assistance, feel free to contact the admin team on discord for dedicated support.
 
 ## Disclaimer
 
